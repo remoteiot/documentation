@@ -65,3 +65,12 @@ With [Losant](https://losant.com), you can easily control and listen to the Rasp
 For detailed instructions, check out this [guide](https://www.losant.com/blog/how-to-access-your-raspberry-pis-gpio-over-the-internet).
 
 Losant uses open communication standards like REST and MQTT to provide connectivity to devices.
+
+### Remote IoT
+
+[Remote IoT](https://remote-iot.com) is a secure cloud architecture to manage IoT devices on the web interface console. No inbound port is required on your device or firewall. 
+
+Remote IoT enables SSH, VNC and any TCP ports access to your device from anywhere. 
+
+Also you may monitor device status and run batch jobs on devices. 
+
